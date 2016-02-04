@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?  
+When you initialize a repository git establishes a version control location for the initial following versions of the files for the repository.  
+You need to establish the repository to aid in tracking the various versions of the files in 
+the directory.  Remembering to use one commit per logical change.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is different from the working directory and the repository because the staging area is just 
+where the files go before a commit is completed.  The working directory is where the files are saved before they are added to the repository via a commit.  The repository is the version control house where the files are tracked. 
+
