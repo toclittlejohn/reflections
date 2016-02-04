@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Viewing the diff helped me see the bug because it allowed a line by line comparison. 
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Having easy access to the entire history of a file will make me a more efficient programmer in the long term 
+because I'll be able to review previous codes and try different changes without loosing a particular version. 
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs. having versions automatically saved like Google Docs does?
+The good thing about manually choosing when to create a commit is that your direct control over when to create a commit.
+The bad thing about mannually choosing when to create a commit is the chance you may forget to commit or make several 
+changes before doing a commit when a commit should have been created after each change. 
+
+Why do you think some version control systems, like Git, allow savings multiple files in one commit, 
+while others, like Google Docs, treat each file separately?
+I am not sure why different version control systems treat file savings differently.  I suspect the different 
+version control systems had different audiences and primary uses in mind when they determined whether to have 
+their systems save multiples files in one commit or individual files in one commit. 
+
+How can you use commands git log and git diff to view the history of files?
+You can use git log to get a listing of the previous commits and the short description of the changes in each.  
+You can use git diff to view the differences between the vairous versions of the files. 
+
+How might using version control make you more confident to make changes that could break something?
+Using version control makes you more confident in making changes that could break something because
+of the ability to git checkout a previous version that was created before something was added
+that broke the file.  
+
+Now that you have your workspace set up, what do you want to try using Git for?
+Now that my workspace is set up I want to try using Git to keep track of the files I create for the upcoming projects. 
