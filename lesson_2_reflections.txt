@@ -7,3 +7,6 @@ How is the staging area different from the working directory and the repository?
 The staging area is different from the working directory and the repository because the staging area is just 
 where the files go before a commit is completed.  The working directory is where the files are saved before they are added to the repository via a commit.  The repository is the version control house where the files are tracked. 
 
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area can be used to either bundle or isolate individual or bundles of changes together 
+into one or multiple commits.  This allows you further control over which changes get committed together. 
