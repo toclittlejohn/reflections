@@ -14,3 +14,7 @@ into one or multiple commits.  This allows you further control over which change
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branches would be helpful in keeping a history organized when some changes want to be trialed without affecting the 
 master branch or when permananent changes are needed but the master branch needs to be maintained too.
+
+How do the diagrams help you visualize the branch structure?
+Diagrams help visualize the branch structure by helping you see what the parent commits are for each commit and
+that helps you see where the branches lie within the various commits.
