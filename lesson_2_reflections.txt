@@ -10,3 +10,7 @@ where the files go before a commit is completed.  The working directory is where
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area can be used to either bundle or isolate individual or bundles of changes together 
 into one or multiple commits.  This allows you further control over which changes get committed together. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches would be helpful in keeping a history organized when some changes want to be trialed without affecting the 
+master branch or when permananent changes are needed but the master branch needs to be maintained too.
