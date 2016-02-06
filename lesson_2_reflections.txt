@@ -22,3 +22,9 @@ that helps you see where the branches lie within the various commits.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches addes the changes from the two branches into one file.  It's represented in the 
 diagram as having two parents in order to demonstrate that it is a file made of two separate branches. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros of Git's auto merge is the ease and speed with which two branches can be merged.  
+The con of Git's auto merge is that it won't work when there are conflicts in the files.
+The pro of doing merges manually is that you can address conflicts real time but the con is
+it would be tedious and lengthy.
