@@ -7,3 +7,13 @@ up-to-date with your remote repository?  Manually pulling changes may be preferr
 Git automatically stay up-to-date with the remote repository because there may be changes to
 the remote repository that you don't want automatically added to the local repository or there
 might be changes that you want added to the local repository at a particular time.
+
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?  Differences between forks, clones and branches are that forks are a copy of 
+a repository made by GitHub, on their server and forks are only available on GitHub whereas
+clones are also copies of a repository but a clone can be made on GitHub or on a local 
+machine.  The forks are never found on local machines.  Branches are different from
+forks and clones because forks and clones are copies of a repository whereas branches
+are an offshoot of a repository that allows the commits that existed prior to the 
+branch being started to appear in the branch and the branch allows for chagnes to be
+made independent of the main or any other branches in the repository. 
