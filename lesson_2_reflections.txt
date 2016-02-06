@@ -18,3 +18,7 @@ master branch or when permananent changes are needed but the master branch needs
 How do the diagrams help you visualize the branch structure?
 Diagrams help visualize the branch structure by helping you see what the parent commits are for each commit and
 that helps you see where the branches lie within the various commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches addes the changes from the two branches into one file.  It's represented in the 
+diagram as having two parents in order to demonstrate that it is a file made of two separate branches. 
