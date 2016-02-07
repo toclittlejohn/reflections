@@ -26,4 +26,20 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 Collaboration without GitHub could be done via a sharepoint site or another file sharing site.  
 Allowing more than one person to work on the file simultaneously would be harder and keeping
 up with the history of the changes would be harder.  The use of the file sharing site might 
-be easier. 
+be easier.
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have? A separate branch would be useful when, in a 
+collaboration, you want to suggest changes to the master.  The suggested changes can be 
+created in a branch and then the request to add those changes to a master can be sent 
+via a pull request.  The pull request gives the other collaborators a chance to review 
+the suggested changes before those changes are added to the master.  Using a branch 
+allows for experimentation and trialing of  new features before adding anything to 
+the master branch and to avoid breaking the master.  The benefit of adding directly 
+to the master is the ease of use.  Adding directly to the master avoids the need to 
+create a branch and update the branch with changes to the master  and then merge 
+the updated master into the branch and push the updated local branch to the remote 
+branch on GitHub while also potenitally updating an existing pull request.  Which, 
+after review from collaborators could possibly be merged with the master branch.  The 
+steps involved with using branches are more complicated but they allow more flexibilty
+and opportunity to eventually affect change to the master. 
