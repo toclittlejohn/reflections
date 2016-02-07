@@ -20,4 +20,10 @@ made independent of the main or any other branches in the repository.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit of having a copy of the last known state of the remote stored locally is 
-that you'll have access to commmit information as of that last known state when offline. 
+that you'll have access to commmit information as of that last known state when offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Collaboration without GitHub could be done via a sharepoint site or another file sharing site.  
+Allowing more than one person to work on the file simultaneously would be harder and keeping
+up with the history of the changes would be harder.  The use of the file sharing site might 
+be easier. 
