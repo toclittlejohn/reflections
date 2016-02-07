@@ -16,4 +16,8 @@ machine.  The forks are never found on local machines.  Branches are different f
 forks and clones because forks and clones are copies of a repository whereas branches
 are an offshoot of a repository that allows the commits that existed prior to the 
 branch being started to appear in the branch and the branch allows for chagnes to be
-made independent of the main or any other branches in the repository. 
+made independent of the main or any other branches in the repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit of having a copy of the last known state of the remote stored locally is 
+that you'll have access to commmit information as of that last known state when offline. 
